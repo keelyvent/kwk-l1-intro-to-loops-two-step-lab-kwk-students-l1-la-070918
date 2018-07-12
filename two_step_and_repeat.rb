@@ -30,11 +30,11 @@ def a_few_more_steps
 end
 end
 
-a_few_more_steps
+puts a_few_more_steps
 
 def how_many_steps?
 steps = 0 
-# end
+end
 
 # def break_dance
 #   # Write a solution that uses the same code as how_many_steps?, but breaks the
